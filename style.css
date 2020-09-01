@@ -1,0 +1,14 @@
+.registration-form{
+    background-color: cadetblue;
+    width: 50%;
+    margin-left: 25%;
+  
+}
+.pers-infor li {
+ list-style-type: none;
+ padding: 5px;
+}
+.skills li{
+    list-style: none;
+    padding: 15px;
+}
